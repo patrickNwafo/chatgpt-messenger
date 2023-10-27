@@ -33,7 +33,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-  ],
+, "lib/chatgpt.ts"  ],
   "exclude": [
     "node_modules"
   ]
